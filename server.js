@@ -22,7 +22,7 @@ store.defineType('auto',{
 });
 
 
-store.defineType('error', {
+store.defineType('error', { 
     location: {type: String},
     description: {type: String},
     date: {type: String},
